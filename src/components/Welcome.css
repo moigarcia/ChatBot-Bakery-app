@@ -1,0 +1,11 @@
+.box-special {
+  color: blueviolet;
+  font-family: 'Poppins', sans-serif;
+  font-size: x-large
+}
+.chat {
+  padding-top: 10px;
+  width: 350px;
+  height: 520px;
+  margin: 0 auto;
+}
